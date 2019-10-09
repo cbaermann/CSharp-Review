@@ -1,0 +1,11 @@
+/Users/codybaermann/Documents/CodingDojo/C#Review/OOP/OOPnotes/bin/Debug/netcoreapp2.2/OOPnotes.deps.json
+/Users/codybaermann/Documents/CodingDojo/C#Review/OOP/OOPnotes/bin/Debug/netcoreapp2.2/OOPnotes.runtimeconfig.json
+/Users/codybaermann/Documents/CodingDojo/C#Review/OOP/OOPnotes/bin/Debug/netcoreapp2.2/OOPnotes.runtimeconfig.dev.json
+/Users/codybaermann/Documents/CodingDojo/C#Review/OOP/OOPnotes/bin/Debug/netcoreapp2.2/OOPnotes.dll
+/Users/codybaermann/Documents/CodingDojo/C#Review/OOP/OOPnotes/bin/Debug/netcoreapp2.2/OOPnotes.pdb
+/Users/codybaermann/Documents/CodingDojo/C#Review/OOP/OOPnotes/obj/Debug/netcoreapp2.2/OOPnotes.csprojAssemblyReference.cache
+/Users/codybaermann/Documents/CodingDojo/C#Review/OOP/OOPnotes/obj/Debug/netcoreapp2.2/OOPnotes.csproj.CoreCompileInputs.cache
+/Users/codybaermann/Documents/CodingDojo/C#Review/OOP/OOPnotes/obj/Debug/netcoreapp2.2/OOPnotes.AssemblyInfoInputs.cache
+/Users/codybaermann/Documents/CodingDojo/C#Review/OOP/OOPnotes/obj/Debug/netcoreapp2.2/OOPnotes.AssemblyInfo.cs
+/Users/codybaermann/Documents/CodingDojo/C#Review/OOP/OOPnotes/obj/Debug/netcoreapp2.2/OOPnotes.dll
+/Users/codybaermann/Documents/CodingDojo/C#Review/OOP/OOPnotes/obj/Debug/netcoreapp2.2/OOPnotes.pdb

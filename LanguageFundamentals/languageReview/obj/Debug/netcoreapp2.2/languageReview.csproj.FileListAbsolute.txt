@@ -1,0 +1,11 @@
+/Users/codybaermann/Documents/CodingDojo/C#Review/LanguageFundamentals/languageReview/bin/Debug/netcoreapp2.2/languageReview.deps.json
+/Users/codybaermann/Documents/CodingDojo/C#Review/LanguageFundamentals/languageReview/bin/Debug/netcoreapp2.2/languageReview.runtimeconfig.json
+/Users/codybaermann/Documents/CodingDojo/C#Review/LanguageFundamentals/languageReview/bin/Debug/netcoreapp2.2/languageReview.runtimeconfig.dev.json
+/Users/codybaermann/Documents/CodingDojo/C#Review/LanguageFundamentals/languageReview/bin/Debug/netcoreapp2.2/languageReview.dll
+/Users/codybaermann/Documents/CodingDojo/C#Review/LanguageFundamentals/languageReview/bin/Debug/netcoreapp2.2/languageReview.pdb
+/Users/codybaermann/Documents/CodingDojo/C#Review/LanguageFundamentals/languageReview/obj/Debug/netcoreapp2.2/languageReview.csprojAssemblyReference.cache
+/Users/codybaermann/Documents/CodingDojo/C#Review/LanguageFundamentals/languageReview/obj/Debug/netcoreapp2.2/languageReview.csproj.CoreCompileInputs.cache
+/Users/codybaermann/Documents/CodingDojo/C#Review/LanguageFundamentals/languageReview/obj/Debug/netcoreapp2.2/languageReview.AssemblyInfoInputs.cache
+/Users/codybaermann/Documents/CodingDojo/C#Review/LanguageFundamentals/languageReview/obj/Debug/netcoreapp2.2/languageReview.AssemblyInfo.cs
+/Users/codybaermann/Documents/CodingDojo/C#Review/LanguageFundamentals/languageReview/obj/Debug/netcoreapp2.2/languageReview.dll
+/Users/codybaermann/Documents/CodingDojo/C#Review/LanguageFundamentals/languageReview/obj/Debug/netcoreapp2.2/languageReview.pdb
