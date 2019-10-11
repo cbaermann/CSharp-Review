@@ -1,0 +1,14 @@
+/Users/codybaermann/Documents/CodingDojo/C#Review/ASPMVC/Portfolio1/bin/Debug/netcoreapp2.2/Portfolio1.deps.json
+/Users/codybaermann/Documents/CodingDojo/C#Review/ASPMVC/Portfolio1/bin/Debug/netcoreapp2.2/Portfolio1.runtimeconfig.json
+/Users/codybaermann/Documents/CodingDojo/C#Review/ASPMVC/Portfolio1/bin/Debug/netcoreapp2.2/Portfolio1.runtimeconfig.dev.json
+/Users/codybaermann/Documents/CodingDojo/C#Review/ASPMVC/Portfolio1/bin/Debug/netcoreapp2.2/Portfolio1.dll
+/Users/codybaermann/Documents/CodingDojo/C#Review/ASPMVC/Portfolio1/bin/Debug/netcoreapp2.2/Portfolio1.pdb
+/Users/codybaermann/Documents/CodingDojo/C#Review/ASPMVC/Portfolio1/obj/Debug/netcoreapp2.2/Portfolio1.csprojAssemblyReference.cache
+/Users/codybaermann/Documents/CodingDojo/C#Review/ASPMVC/Portfolio1/obj/Debug/netcoreapp2.2/Portfolio1.csproj.CoreCompileInputs.cache
+/Users/codybaermann/Documents/CodingDojo/C#Review/ASPMVC/Portfolio1/obj/Debug/netcoreapp2.2/Portfolio1.RazorAssemblyInfo.cache
+/Users/codybaermann/Documents/CodingDojo/C#Review/ASPMVC/Portfolio1/obj/Debug/netcoreapp2.2/Portfolio1.RazorAssemblyInfo.cs
+/Users/codybaermann/Documents/CodingDojo/C#Review/ASPMVC/Portfolio1/obj/Debug/netcoreapp2.2/Portfolio1.AssemblyInfoInputs.cache
+/Users/codybaermann/Documents/CodingDojo/C#Review/ASPMVC/Portfolio1/obj/Debug/netcoreapp2.2/Portfolio1.AssemblyInfo.cs
+/Users/codybaermann/Documents/CodingDojo/C#Review/ASPMVC/Portfolio1/obj/Debug/netcoreapp2.2/Portfolio1.RazorTargetAssemblyInfo.cache
+/Users/codybaermann/Documents/CodingDojo/C#Review/ASPMVC/Portfolio1/obj/Debug/netcoreapp2.2/Portfolio1.dll
+/Users/codybaermann/Documents/CodingDojo/C#Review/ASPMVC/Portfolio1/obj/Debug/netcoreapp2.2/Portfolio1.pdb
