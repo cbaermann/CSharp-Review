@@ -6,16 +6,18 @@ namespace MCVNotes
         //Requests
         //Localhost:5000
         [HttpGet("")]
-        public string Index()
+        public ViewResult Index()
         {
-            return "Hello From Controller";
+            //Views/Home/HiThere.cshtml (if no input given in return View();)
+            return View("Index");
         }
 
         //localhost:5000/hello
         [HttpGet("hello")]
-        public string Hello()
+        public RedirectToActionResult Hello()
         {
-            return "Hi Again";
+            System.Console.WriteLine("Redirect Worked");
+            return RedirectToAction("HelloUser", new{username="Devon", location="Seattle"});
         }
         //localhost:5000/users/???
         [HttpGet("users/{username}/{location}")]

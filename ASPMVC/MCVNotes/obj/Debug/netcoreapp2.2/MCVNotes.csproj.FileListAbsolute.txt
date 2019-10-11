@@ -14,10 +14,10 @@
 /Users/codybaermann/Documents/CodingDojo/C#Review/ASPMVC/MCVNotes/obj/Debug/netcoreapp2.2/MCVNotes.TagHelpers.input.cache
 /Users/codybaermann/Documents/CodingDojo/C#Review/ASPMVC/MCVNotes/obj/Debug/netcoreapp2.2/MCVNotes.TagHelpers.output.cache
 /Users/codybaermann/Documents/CodingDojo/C#Review/ASPMVC/MCVNotes/obj/Debug/netcoreapp2.2/MCVNotes.RazorCoreGenerate.cache
-/Users/codybaermann/Documents/CodingDojo/C#Review/ASPMVC/MCVNotes/obj/Debug/netcoreapp2.2/Razor/Views/Home/Index.g.cshtml.cs
 /Users/codybaermann/Documents/CodingDojo/C#Review/ASPMVC/MCVNotes/obj/Debug/netcoreapp2.2/MCVNotes.RazorTargetAssemblyInfo.cache
 /Users/codybaermann/Documents/CodingDojo/C#Review/ASPMVC/MCVNotes/obj/Debug/netcoreapp2.2/MCVNotes.RazorTargetAssemblyInfo.cs
 /Users/codybaermann/Documents/CodingDojo/C#Review/ASPMVC/MCVNotes/obj/Debug/netcoreapp2.2/MCVNotes.Views.pdb
 /Users/codybaermann/Documents/CodingDojo/C#Review/ASPMVC/MCVNotes/obj/Debug/netcoreapp2.2/MCVNotes.dll
 /Users/codybaermann/Documents/CodingDojo/C#Review/ASPMVC/MCVNotes/obj/Debug/netcoreapp2.2/MCVNotes.pdb
 /Users/codybaermann/Documents/CodingDojo/C#Review/ASPMVC/MCVNotes/obj/Debug/netcoreapp2.2/MCVNotes.csproj.CopyComplete
+/Users/codybaermann/Documents/CodingDojo/C#Review/ASPMVC/MCVNotes/obj/Debug/netcoreapp2.2/Razor/Views/Home/Index.g.cshtml.cs
