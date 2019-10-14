@@ -7,7 +7,7 @@ using Microsoft.AspNetCore.Hosting;
 using Microsoft.AspNetCore.Http;
 using Microsoft.Extensions.DependencyInjection;
 
-namespace Portfolio1
+namespace PortfolioII
 {
     public class Startup
     {
@@ -25,6 +25,7 @@ namespace Portfolio1
             {
                 app.UseDeveloperExceptionPage();
             }
+
             app.UseStaticFiles();
             app.UseMvc();
         }

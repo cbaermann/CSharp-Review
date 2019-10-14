@@ -1,5 +1,5 @@
 {
-  "FilePath": "/Users/codybaermann/Documents/CodingDojo/C#Review/ASPMVC/Portfolio1/Portfolio1.csproj",
+  "FilePath": "/Users/codybaermann/Documents/CodingDojo/C#Review/ASPMVC/PortfolioII/PortfolioII.csproj",
   "Configuration": {
     "ConfigurationName": "MVC-2.1",
     "LanguageVersion": "2.1",
@@ -2958,11 +2958,21 @@
     ],
     "CSharpLanguageVersion": 800
   },
-  "RootNamespace": "Portfolio1",
+  "RootNamespace": "PortfolioII",
   "Documents": [
+    {
+      "FilePath": "Views/Home/projects.cshtml",
+      "TargetPath": "Views/Home/projects.cshtml",
+      "FileKind": "mvc"
+    },
     {
       "FilePath": "Views/Home/Index.cshtml",
       "TargetPath": "Views/Home/Index.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "Views/Home/contact.cshtml",
+      "TargetPath": "Views/Home/contact.cshtml",
       "FileKind": "mvc"
     }
   ],

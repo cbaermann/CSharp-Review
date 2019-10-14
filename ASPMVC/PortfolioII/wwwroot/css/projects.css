@@ -1,0 +1,28 @@
+.header
+{
+    text-align: center;
+}
+
+img{
+    height: 100px;
+    width: 100px;
+}
+
+body{
+    margin: auto;
+    width: 40%;
+}
+
+.projects{
+    width: 300px;
+    height: 400px;
+    overflow: scroll;
+    border: 2px solid black;
+}
+
+.singleproject{
+    display: inline-block;
+}
+.content{
+    display: inline-block
+}
